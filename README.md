@@ -10,6 +10,8 @@ This project focuses on analyzing coffee sales data to uncover key business insi
 - Perform exploratory data analysis (EDA) to identify patterns and trends.
 - Visualize findings using interactive Excel dashboards.
 - Summarize actionable insights and recommendations.
+  
+![Image](https://github.com/user-attachments/assets/7a0d319c-d23d-4cb2-9ac1-a925d40926dd)
 
 <img width="3159" height="1877" alt="Image" src="https://github.com/user-attachments/assets/bb3c6c12-6bbb-4ad5-b4b9-ea6fadb93722" />
 
