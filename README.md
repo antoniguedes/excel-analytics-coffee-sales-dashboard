@@ -11,6 +11,8 @@ This project focuses on analyzing coffee sales data to uncover key business insi
 - Visualize findings using interactive Excel dashboards.
 - Summarize actionable insights and recommendations.
 
+<img width="3159" height="1877" alt="Image" src="https://github.com/user-attachments/assets/bb3c6c12-6bbb-4ad5-b4b9-ea6fadb93722" />
+
 ## Dataset
 
 - **Source:** CoffeeOrderData.xls Excel file publicly available dataset
